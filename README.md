@@ -1,4 +1,4 @@
 # DOTsupply
 Membangun citra produk yang dapat bersaing internasional
 
-# PEMBAGIAN PROYEK
+# PEMBAGIAN TUGAS PROYEK
