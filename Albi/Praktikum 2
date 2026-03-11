@@ -1,0 +1,11 @@
+Dalam rekayasa perangkat lunak terdapat beberapa tahapan utama yang sering disebut sebagai Software Development Life Cycle (SDLC), yaitu:
+•  Analisis Kebutuhan (Requirement Analysis)
+Mengidentifikasi kebutuhan pengguna dan menentukan fungsi sistem yang akan dibangun.
+•  Perancangan Sistem (System Design)
+Membuat desain arsitektur, struktur data, dan antarmuka sistem sebelum proses pengkodean.
+•  Implementasi (Coding)
+Proses menerjemahkan desain sistem ke dalam bahasa pemrograman.
+•  Pengujian (Testing)
+Memastikan perangkat lunak berjalan sesuai dengan kebutuhan dan bebas dari kesalahan.
+•  Pemeliharaan (Maintenance)
+Melakukan perbaikan, pembaruan, dan pengembangan setelah perangkat lunak digunakan.
