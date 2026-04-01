@@ -1,6 +1,8 @@
 SDLC (Software Development Life Cycle) adalah kerangka kerja terstruktur yang menjelaskan tahap‑tahap untuk mengembangkan, mengirimkan, dan memelihara perangkat lunak secara sistematis. 
 Tujuannya memastikan kualitas, efisiensi, dan keteraturan sepanjang siklus hidup produk perangkat lunak.
-Tahapan utama:
+Langkah tahapan utama:
+(PADI)
+
     Perencanaan (Planning): Identifikasi kebutuhan bisnis, tujuan proyek, ruang lingkup, anggaran, dan jadwal.
     Analisis kebutuhan (Requirements Analysis): Kumpulkan dan dokumentasikan kebutuhan fungsional dan non‑fungsional dari pemangku kepentingan.
     Desain sistem (Design): Rancang arsitektur, desain tingkat tinggi (HLD) dan desain rinci (LLD), termasuk UML, model data, antarmuka.
