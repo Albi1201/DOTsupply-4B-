@@ -1,1 +1,14 @@
+SDLC adalah kerangka kerja untuk membangun perangkat lunak secara sistematis. Intinya terdiri dari 7 langkah:
 
+Planning: Menentukan tujuan, biaya, dan waktu.
+Analysis: Mencatat fitur dan kebutuhan apa saja yang harus ada.
+Design: Membuat "cetak biru" (arsitektur, database, dan tampilan UI).
+Implementation: Proses menulis kode program (coding).
+Testing: Uji coba untuk mencari dan memperbaiki bug.
+Deployment: Merilis aplikasi ke pengguna.
+Maintenance: Pemeliharaan dan perbaikan jika ada masalah setelah rilis.
+
+Perbandingan Model Populer:
+Waterfall: Seperti tangga; harus selesai satu tahap baru bisa lanjut ke bawah. (Kaku tapi jelas).
+
+Agile: Seperti lingkaran; terus berulang, rilis sedikit-sedikit, dan cepat beradaptasi dengan perubahan. (Fleksibel).
