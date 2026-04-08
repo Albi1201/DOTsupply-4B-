@@ -1,0 +1,13 @@
+SDLC adalah peta jalan atau SOP (Standar Operasional Prosedur) yang digunakan oleh tim pengembang untuk merancang, membangun, dan memelihara perangkat lunak berkualitas tinggi.
+
+Perencanaan (Planning) adalah menentukan tujuan proyek, ruang lingkup, sumber daya, serta jadwal pengerjaan. 
+Analisis Kebutuhan (Requirement Analysis) adalah mengumpulkan dan menganalisis kebutuhan pengguna serta sistem yang akan dibuat. 
+Perancangan (Design) adalah membuat desain sistem, termasuk arsitektur, database, dan antarmuka pengguna. 
+Implementasi (Development / Coding) adalah proses menulis kode program sesuai dengan desain yang telah dibuat. 
+Pengujian (Testing) adalah menguji sistem untuk menemukan bug atau kesalahan agar sesuai dengan kebutuhan. 
+Penerapan (Deployment) adalah sistem mulai digunakan oleh pengguna di lingkungan nyata. 
+Pemeliharaan (Maintenance) adalah melakukan perbaikan, pembaruan, dan peningkatan sistem setelah digunakan.
+
+Perbandingan Model Populer, yaitu:
+Waterfall: Tahapan jelas dan kaku (Planning → Analysis → Design → Coding → Testing → Deployment → Maintenance), sulit kembali ke tahap sebelumnya, dan dokumentasi lengkap di setiap fase.
+Agile: Fokus pada kolaborasi tim dan feedback cepat, perubahan kebutuhan mudah dilakukan, dan pengembangan bertahap dan berulang.
