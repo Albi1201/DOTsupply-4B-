@@ -1,10 +1,17 @@
-Langkah pertama sebelum menggunakan GitHub adalah membuat akun.
-Langkah-langkah:
-Buka website https://github.com
-Klik Sign Up
-Masukkan:
-Email
-Password
-Username
-Verifikasi akun melalui email
-Setelah selesai, akun GitHub siap digunakan.
+Membuat Akun GitHub dan Menerima Undangan Repository, sebagai berikut ini:
+Mengunjungi situs GitHub
+Langkah pertama adalah membuka browser di perangkat kamu, lalu mengunjungi situs resmi GitHub. 
+Membuat akun GitHub
+Masukkan alamat email aktif, buat kata sandi yang aman, dan tentukan username sesuai keinginan kamu. 
+Melakukan verifikasi akun
+Periksa kotak masuk email kamu, lalu masukkan kode verifikasi yang dikirimkan oleh GitHub agar akun kamu aktif dan siap digunakan. 
+Memberikan informasi akun ke pemilik repository
+Setelah akun berhasil dibuat, berikan username atau alamat email kamu kepada pemilik repository yang ingin mengundang kamu. 
+Pemilik repository menambahkan kolaborator
+Pemilik repository akan memasukkan username atau email kamu ke dalam daftar kolaborator melalui pengaturan proyek mereka. 
+Menerima undangan repository
+Kamu akan menerima notifikasi undangan, baik melalui email atau melalui ikon lonceng di GitHub. 
+Menyetujui undangan (Accept Invitation)
+Buka undangan tersebut, lalu klik tombol Accept Invitation untuk bergabung sebagai kolaborator. 
+Mulai berkolaborasi
+Setelah undangan disetujui, kamu akan mendapatkan akses ke repository tersebut untuk melihat kode, melakukan perubahan, dan menyimpan pekerjaan kamu. Repository tersebut juga akan muncul di profil GitHub kamu sebagai proyek kolaborasi.
